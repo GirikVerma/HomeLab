@@ -1,0 +1,19 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs / dumps
+*.log
+*.pcap
+*.zip
+*.7z
+
+# Secrets (never commit)
+*.pem
+*.key
+*.pfx
+*.p12
+.env
+secrets/
